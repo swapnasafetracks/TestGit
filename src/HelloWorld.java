@@ -10,6 +10,6 @@
  */
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hai Friends 2000");
+        System.out.println("Hai Friend 5000");
     }
 }
