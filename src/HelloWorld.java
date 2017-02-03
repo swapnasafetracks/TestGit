@@ -10,6 +10,6 @@
  */
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hai Friend 750");
+        System.out.println("Garth Brook Show");
     }
 }
